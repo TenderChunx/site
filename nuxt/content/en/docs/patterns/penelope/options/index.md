@@ -1,5 +1,5 @@
 ---
-title: Penlope pattern options
+title: Penelope pattern options
 patternOptionsIndex: true
 pattern: penelope
 ---
